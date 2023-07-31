@@ -25,7 +25,7 @@
 <a href="https://github.com/Muradmustafayev-03">
     <img height=200 src="https://github-stats-alpha.vercel.app/api?username=Muradmustafayev-03&cc=171626&tc=FFFF&ic=F24194&bc=FFFF">
 </a>
-&nbsp; &nbsp;
+
 <a href="https://github-readme-stats.vercel.app/api/top-langs?username=Muradmustafayev-03&size_weight=0.5&count_weight=0.5&count_private=true&layout=donut&theme=radical">
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Muradmustafayev-03&size_weight=0.5&count_weight=0.5&count_private=true&layout=donut&theme=radical"/>
 </a>
