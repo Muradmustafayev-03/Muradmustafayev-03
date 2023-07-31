@@ -1,8 +1,34 @@
-### Hi there 👋
+### Hi there, my name is Murad 👋
 
-<!--
-**Muradmustafayev-03/Muradmustafayev-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Machine Learning Engineer with focus on NLP and Computer Vision
 
+🔭 Currently working as a Computer Vision Engineer at [AZAI Tech](https://azai-tech.web.app/)
+
+📖 Pursuing B.Sc. in Computer Science at [University of Strasbourg](https://en.unistra.fr/) 
+
+💡 Open-source enthusiast, always eager to learn and contribute
+
+📫 Feel free to contact me for collaboration or any other purposes
+
+
+## Contact
+<a href="https://www.linkedin.com/in/murad-mustafayev/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:muradmustafayev03@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
+<br/> 
+
+## Stats
+<a href="https://github.com/Muradmustafayev-03">
+    <img height=200 src="https://github-stats-alpha.vercel.app/api?username=Muradmustafayev-03&cc=171626&tc=FFFF&ic=F24194&bc=FFFF">
+</a>
+&nbsp; &nbsp;
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=Muradmustafayev-03&size_weight=0.5&count_weight=0.5&count_private=true&layout=donut&theme=radical">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Muradmustafayev-03&size_weight=0.5&count_weight=0.5&count_private=true&layout=donut&theme=radical"/>
+</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
