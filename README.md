@@ -12,13 +12,15 @@
 
 
 ## Contact
-<a href="https://www.linkedin.com/in/murad-mustafayev/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
 <a href="mailto:muradmustafayev03@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white">
 </a>
-
+<a href="https://www.linkedin.com/in/murad-mustafayev/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?logo=linkedin">
+</a>
+<a href="https://t.me/rock_and_chips">
+    <img src="https://img.shields.io/badge/-Telegram-blue?logo=telegram&logoColor=white">
+</a>
 <br/> 
 
 ## Stats
