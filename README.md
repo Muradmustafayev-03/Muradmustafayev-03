@@ -6,7 +6,7 @@
 
 📖 B.Sc. in Computer Science @[University of Strasbourg](https://en.unistra.fr/) 
 
-🎓 M.SC. in Natural Language Processing @[University of Lorraine](https://www.univ-lorraine.fr/)
+🎓 M.Sc. in Natural Language Processing @[University of Lorraine](https://www.univ-lorraine.fr/)
 
 💡 Open-source enthusiast, always eager to learn and contribute
 
