@@ -2,13 +2,15 @@
 
 🚀 Machine Learning Engineer with focus on NLP and Computer Vision
 
-🔭 Currently working as a Computer Vision Engineer at [AZAI Tech](https://azai-tech.web.app/)
+🔭 Currently position: AI Engineer @[Plain](https://www.plain-service.com/)
 
-📖 Pursuing B.Sc. in Computer Science at [University of Strasbourg](https://en.unistra.fr/) 
+📖 B.Sc. in Computer Science @[University of Strasbourg](https://en.unistra.fr/) 
+
+🎓 M.SC. in Natural Language Processing @[University of Lorraine](https://www.univ-lorraine.fr/)
 
 💡 Open-source enthusiast, always eager to learn and contribute
 
-📫 Feel free to contact me for collaboration or any other purposes
+📫 Feel free to contact me for collaboration
 
 
 ## Contact
