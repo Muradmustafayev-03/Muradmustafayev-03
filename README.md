@@ -2,7 +2,7 @@
 
 🚀 Machine Learning Engineer with focus on NLP and Computer Vision
 
-🔭 Currently position: AI Engineer @[Plain](https://www.plain-service.com/)
+🔭 Current position: AI Engineer @[Plain](https://www.plain-service.com/)
 
 📖 B.Sc. in Computer Science @[University of Strasbourg](https://en.unistra.fr/) 
 
@@ -10,10 +10,8 @@
 
 💡 Open-source enthusiast, always eager to learn and contribute
 
-📫 Feel free to contact me for collaboration
+📫 Feel free to contact:
 
-
-## Contact
 <a href="mailto:muradmustafayev03@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white">
 </a>
