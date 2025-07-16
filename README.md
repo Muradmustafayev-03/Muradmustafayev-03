@@ -2,7 +2,7 @@
 
 🚀 Machine Learning Engineer with focus on NLP and Computer Vision
 
-🔭 Current position: AI Engineer @[Plain](https://www.plain-service.com/)
+🔭 Current position: AI Engineer @[ControlUp](https://www.controlup.com/)
 
 📖 B.Sc. in Computer Science @[University of Strasbourg](https://en.unistra.fr/) 
 
