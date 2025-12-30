@@ -74,9 +74,9 @@ My name is Murad. I'm a **Machine Learning Engineer** based in **Paris, France**
 
 ### 💼 Experience Highlights
 
-* **GenAI Engineer** @ [QuickSort](https://www.quicksort.fr/) _(Feb 2025 - Present)_
+* **GenAI Engineer** @ [QuickSort](https://www.quicksort.fr/) _(Oct 2025 - Present)_
     * Building agentic intelligence for finance industry.
-* **Lead Machine Learning Engineer** @ [ControlUp](https://www.controlup.com/) _(Feb 2025 - Present)_
+* **Lead Machine Learning Engineer** @ [ControlUp](https://www.controlup.com/) _(Feb 2025 - Oct 2025)_
     * Building agentic intelligence layers and autonomous workflow generation.
 * **Machine Learning Engineer** @ [Plain Techstars](https://www.plain-service.com/) '24 _(Jul 2024 - Feb 2025)_
     * Designed multi-agent LLM systems with RAG, boosting task execution by 38.8%.
